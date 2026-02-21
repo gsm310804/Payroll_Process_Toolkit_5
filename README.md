@@ -1,1 +1,3 @@
 # Payroll_Process_Toolkit_5
+
+This project is a JavaScript-based payroll toolkit that automates salary calculations using reusable functions. It calculates base pay (up to 40 hours), time-and-a-half overtime, and a 15% tax deduction, then processes an array of employee records to generate a complete payroll report. The focus is on modular design, clean syntax, and avoiding repetitive logic by leveraging well-structured functions.
