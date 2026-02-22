@@ -10,7 +10,7 @@ function calculatedBasePay(rate, hours) {
     } else {
     }
 
-    Function calculatedOvertimePay(rate, hours) {
+    function calculatedOvertimePay(rate, hours) {
         let overtimeHours = hours - 40;
         return overtimeHours * rate * 1.5;
     };
